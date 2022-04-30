@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#34495E"
+    android:background="@color/gray_400"
     tools:context=".SecondActivity"
     tools:ignore="ExtraText">
 
@@ -30,7 +30,7 @@
         android:layout_width="199dp"
         android:layout_height="273dp"
         android:layout_marginTop="1dp"
-        android:contentDescription="@string/imagen_secondary"
+        android:contentDescription="@string/image_secondary"
         android:src="@drawable/android_image2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
