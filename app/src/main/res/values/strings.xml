@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarea 1</string>
+    <string name="title_text_main">Main Page</string>
+    <string name="button_next">Next</string>
+    <string name="button_back">Back</string>
+    <string name="textview2">Bienvenidos a la Segunda Activity</string>
+    <string name="text_image_1">Android 1</string>
+    <string name="text_image_2">Android 2</string>
+    <string name="text_image_3">Android 3</string>
+    <string name="image_android">image_android</string>
+    <string name="imagen_secondary">imagen_secondary</string>
+
+</resources>
